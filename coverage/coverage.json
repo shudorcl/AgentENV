@@ -1,0 +1,25 @@
+{
+  "branches": {
+    "coverage": "-",
+    "missed": 0,
+    "total": 0
+  },
+  "functions": {
+    "coverage": "71.57%",
+    "missed": 1348,
+    "total": 4741
+  },
+  "generated_at": "2026-07-29T11:48:34Z",
+  "lines": {
+    "coverage": "75.55%",
+    "missed": 9533,
+    "total": 38996
+  },
+  "package": "workspace",
+  "regions": {
+    "coverage": "74.68%",
+    "missed": 13772,
+    "total": 54392
+  },
+  "run_url": "https://github.com/shudorcl/AgentENV/actions/runs/30447362969"
+}
