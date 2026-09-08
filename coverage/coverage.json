@@ -5,21 +5,21 @@
     "total": 0
   },
   "functions": {
-    "coverage": "71.63%",
-    "missed": 1348,
-    "total": 4751
+    "coverage": "73.03%",
+    "missed": 1572,
+    "total": 5828
   },
-  "generated_at": "2026-07-29T17:51:02Z",
+  "generated_at": "2026-09-08T07:13:41Z",
   "lines": {
-    "coverage": "75.57%",
-    "missed": 9547,
-    "total": 39075
+    "coverage": "77.82%",
+    "missed": 10937,
+    "total": 49300
   },
   "package": "workspace",
   "regions": {
-    "coverage": "74.71%",
-    "missed": 13793,
-    "total": 54540
+    "coverage": "76.91%",
+    "missed": 16106,
+    "total": 69741
   },
-  "run_url": "https://github.com/shudorcl/AgentENV/actions/runs/30476709995"
+  "run_url": "https://github.com/shudorcl/AgentENV/actions/runs/34196122569"
 }
